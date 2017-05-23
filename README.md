@@ -7,6 +7,15 @@ Powered by Angular2
 <p align="center"><img style="text-align: center;" src="/assets/game-shot.png?raw=true"></p>
 
 ## Run Demo App
+Preconditions: 
+
+You must have admin rights, to install and run application
+
+You must have **GIT** installed
+
+You must have **NODE.JS 7.X.X** installed
+
+
 Clone this repo into new folder(e.g., game-minesweeper)
 ```
 > git clone https://github.com/DanielYKPan/ng2-minesweeper game-minesweeper
