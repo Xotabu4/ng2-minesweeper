@@ -1,7 +1,5 @@
 # Game Minesweeper
 
-**[Demo](https://daniel-projects.firebaseapp.com/game/minesweeper)**
-
 <p align="center"><img style="text-align: center;" src="/assets/minesweeper.png?raw=true"></p>
 Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" without detonating any of them, with help from clues about the number of neighboring mines in each field. 
 
@@ -25,15 +23,14 @@ Run the app
 > npm run server:dev:hmr
 ```
 
-## Checkout Other Game Projects
-**[Daniel Game Projects](https://daniel-projects.firebaseapp.com/game)**
+Your app should be accessible by URL:
+```
+http://localhost:3000/game
+```
 
-## Author
+## Thanks to Author!
 
  **[Daniel Pan](https://daniel-projects.firebaseapp.com)**
-
- - [github/DanielYKPan](https://github.com/DanielYKPan)
- - [twitter/DanielYKPan](https://twitter.com/DanielYKPan)
 
 ## License
 
